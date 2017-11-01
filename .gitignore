@@ -1,0 +1,16 @@
+android/ijkplayer/ijkplayer-arm64/src/main/jni/android-ndk-prof/jni
+android/ijkplayer/ijkplayer-arm64/src/main/libs/
+android/ijkplayer/ijkplayer-arm64/src/main/obj/
+android/ijkplayer/ijkplayer-armv5/src/main/jni/android-ndk-prof/jni
+android/ijkplayer/ijkplayer-armv7a/src/main/jni/android-ndk-prof/jni
+android/ijkplayer/ijkplayer-armv7a/src/main/libs/
+android/ijkplayer/ijkplayer-armv7a/src/main/obj/
+android/ijkplayer/ijkplayer-x86/src/main/jni/android-ndk-prof/jni
+android/ijkplayer/ijkplayer-x86_64/src/main/jni/android-ndk-prof/jni
+android/ijkplayer/ijkplayer-x86_64/src/main/libs/
+android/ijkplayer/ijkplayer-x86_64/src/main/obj/
+
+android/ijkplayer/ijkplayer-arm64/src/main/jni/ijkmedia/ijkplayer/ijkversion.h
+android/ijkplayer/ijkplayer-armv7a/src/main/jni/ijkmedia/ijkplayer/ijkversion.h
+android/ijkplayer/ijkplayer-x86_64/src/main/jni/ijkmedia/ijkplayer/ijkversion.h
+
